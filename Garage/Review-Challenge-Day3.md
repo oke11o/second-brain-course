@@ -3,9 +3,9 @@ type: note
 created: "[[2024-11-13-Wednesday|2024-11-13-Wednesday 18:48]]"
 tags: []
 ---
-#  Challenge-VideoReview-Day3
+#  Review-Challenge-Day3
 
-Plugin Omnisearch
+> Plugin Omnisearch
 
 Идея Рустама - размышлять лично , а улучшать публично
 - Я зациклился что он назвал это срамотой

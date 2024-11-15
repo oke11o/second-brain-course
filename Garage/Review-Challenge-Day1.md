@@ -4,7 +4,7 @@ created: "[[2024-11-11-Monday|2024-11-11-Monday 20:39]]"
 tags:
   - review
 ---
-#  Challenge-VideoReview-Day1
+#  Review-Challenge-Day1
 
 
 - Во-первых, плагин тайп райтерс scroll мне не понравился 
