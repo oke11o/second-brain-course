@@ -1,0 +1,17 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1725973772022,
+      "items": [
+        {
+          "type": "search",
+          "ctime": 1725973835321,
+          "query": "path:-\"X-Daily\" path:-\"X-Attachment\" tag:#task",
+          "title": "Search by Tag without Daily"
+        }
+      ],
+      "title": "Search"
+    }
+  ]
+}
