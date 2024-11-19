@@ -6,6 +6,7 @@ tags: []
 ---
 #  Настройка Zotero Integration Plugin
 
+https://xqzmesir.ru/как-настроить-zotero-integration-plugin-в-obsidian-раз-и-навсегда
 
 - Скачать и установить плагин https://github.com/retorquere/zotero-better-bibtex/releases/latest
 
