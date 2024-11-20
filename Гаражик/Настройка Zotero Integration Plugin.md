@@ -10,6 +10,9 @@ https://xqzmesir.ru/как-настроить-zotero-integration-plugin-в-obsid
 
 - Скачать и установить плагин https://github.com/retorquere/zotero-better-bibtex/releases/latest
 
+- Плагин `Footnote Shortcut`
+- 
+
 
 ---
 

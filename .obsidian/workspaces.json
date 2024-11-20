@@ -1,0 +1,195 @@
+{
+  "workspaces": {
+    "Технические заметки": {
+      "main": {
+        "id": "68b9f84cb708881c",
+        "type": "split",
+        "children": [
+          {
+            "id": "59e0609cf15115c8",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "33d301068fb19ff7",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Гаражик/Иерархия инструментов заметковедения.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Иерархия инструментов заметковедения"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "9d0692461a956cdc",
+        "type": "split",
+        "children": [
+          {
+            "id": "b64ddcd92800324a",
+            "type": "tabs",
+            "dimension": 63.48039215686274,
+            "children": [
+              {
+                "id": "939f32496bac9655",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
+                }
+              },
+              {
+                "id": "7b3a7f5119d9cb11",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Search"
+                }
+              },
+              {
+                "id": "56e809ff31f73c4f",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Bookmarks"
+                }
+              }
+            ]
+          },
+          {
+            "id": "bcef8bf2914ee28e",
+            "type": "tabs",
+            "dimension": 36.51960784313725,
+            "children": [
+              {
+                "id": "43e4d4348590d1d1",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {},
+                  "icon": "calendar-with-checkmark",
+                  "title": "Calendar"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "right": {
+        "id": "669c6e0743cdca54",
+        "type": "split",
+        "children": [
+          {
+            "id": "bfc8879add4367ba",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d493dd183221dd7d",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Гаражик/Задачи второй недели челенджа.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks for Задачи второй недели челенджа"
+                }
+              },
+              {
+                "id": "c489ae31b1873e8b",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Outgoing links"
+                }
+              },
+              {
+                "id": "03b5046e9b843f73",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              },
+              {
+                "id": "dad602ed638c5f75",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Гаражик/Иерархия инструментов заметковедения.md"
+                  },
+                  "icon": "lucide-list",
+                  "title": "Outline of Иерархия инструментов заметковедения"
+                }
+              }
+            ],
+            "currentTab": 3
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "daily-notes:Open today's daily note": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "templater-obsidian:Templater": false,
+          "obsidian-git:Open Git source control": false,
+          "omnisearch:Omnisearch": false,
+          "obsidian-excalidraw-plugin:Create new drawing": false,
+          "workspaces:Manage workspace layouts": false
+        }
+      },
+      "active": "33d301068fb19ff7",
+      "mtime": "2024-11-20T15:25:50+01:00"
+    }
+  },
+  "active": "Технические заметки"
+}
